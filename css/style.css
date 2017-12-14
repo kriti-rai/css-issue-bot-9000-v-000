@@ -17,6 +17,6 @@ body {
   }
 
   #tasks .completed {
-    backgound: red;
+    background: #ccc;
     text-decoration: underline;
   }
